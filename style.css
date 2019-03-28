@@ -1,0 +1,39 @@
+
+body {
+    background-color: lightseagreen;
+    margin: 0%;
+    width: 100%;
+    max-width: 1024px;
+    }
+
+header,
+main,
+footer {
+    font-size: 75%;
+    text-align: center;
+}
+
+p {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    padding-bottom: 5%;
+    text-align: left
+}
+
+footer p{
+    font-size: 50%;
+    font-family: Arial, Helvetica, sans-serif;
+}
+img {
+    width: 50%;
+    max-width: 100%;
+}
+
+#heading_font{
+    font: bold;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    padding-top: 5%;
+    
+}
+.captions {
+    font-style: italic
+}
